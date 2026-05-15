@@ -1,0 +1,8 @@
+numpy
+torch
+torchvision
+flwr[simulation]
+pydicom
+pandas
+nibabel
+matplotlib
